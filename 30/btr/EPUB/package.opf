@@ -26,6 +26,10 @@
         <item href="xhtml/ihta84-iht-s-38.xhtml" id="ihta84-iht-s-38" media-type="application/xhtml+xml"/>
         <item href="xhtml/631-000.xhtml" id="r631-000" media-type="application/xhtml+xml"/>
         <item href="xhtml/ihta84-iht-s-40.xhtml" id="ihta84-iht-s-40" media-type="application/xhtml+xml"/>
+        <item href="images/1_235250.gif" id="r1_235250.gif" media-type="image/gif"/>
+        <item href="images/2_244100.gif" id="r2_244100.gif" media-type="image/gif"/>
+        <item href="foreign/ADCD02200a.doc" id="ADCD02200" media-type="application/msword"/>
+        <item href="foreign/agl2400.pdf" id="agl2400" media-type="application/pdf"/>
     </manifest>
     <spine>
         <itemref idref="topicindex"/>
